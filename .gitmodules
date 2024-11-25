@@ -1,0 +1,12 @@
+[submodule "roomservice"]
+	path = roomservice
+	url = https://github.com/Merlicne/roomservice
+[submodule "rentservice"]
+	path = rentservice
+	url = https://github.com/Merlicne/rentservice
+[submodule "gatewayservice"]
+	path = gatewayservice
+	url = https://github.com/Merlicne/gatewayservice
+[submodule "dormservice"]
+	path = dormservice
+	url = https://github.com/Merlicne/dormservice
